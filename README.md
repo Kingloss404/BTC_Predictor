@@ -4,4 +4,4 @@ Predict whether the price of bitcoin will rise or fall based on @BTCN_News twitt
 
 Contains some visualisation.
 
-Data is scrapped from CoinMarketCap and the workflow is managed by an Airflow DAG, hosted on an azure machine (code of the dag is provided)
+Data is scraped from CoinMarketCap and the workflow is managed by an Airflow DAG, hosted on an azure machine (code of the dag is provided)
